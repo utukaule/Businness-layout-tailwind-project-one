@@ -1,0 +1,9 @@
+#coverImage {
+  /* background-image: url('../Images/HomePageImages/CoverImage34.jpg'); */
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-size: cover ;
+  height: 100vh;
+  width: 100%;
+}
+/*  */
